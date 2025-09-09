@@ -1,4 +1,4 @@
-# 🌍 ENKI Playgrounds Accessibility Platform
+# 🌍 Web application for analyzing and improving accesibility in playgrounds for children with disabilities
 
 This project is a **Final Degree Project** developed in collaboration with **Fundación ENKI**.  
 Its goal is to provide an **accessible web platform** that modernizes and expands ENKI’s printed guide on playground accessibility in A Coruña.  
