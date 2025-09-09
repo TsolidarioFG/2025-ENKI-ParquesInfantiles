@@ -1,0 +1,5 @@
+package es.udc.tfg.park_rest.model.enums;
+
+public enum IncidentType {
+  NA, AREA_DE_JUEGO, CARTELERÍA, CIERRE, EDAD, ELEMENTOS_DE_JUEGO, ESTADO, NOMBRE_ÁREA_DE_JUEGO, NÚMERO_DE_ELEMENTOS, PAVIMENTO, PLANO, SEÑALIZACIÓN
+}

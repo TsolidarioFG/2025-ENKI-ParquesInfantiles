@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Labil Grotesk';
+  src: url('./fonts/labilgrotesk-regular-webfont.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Totally Heavy';
+  src: url('./fonts/Totally-Heavy.otf') format('opentype');
+}
+
+/* Estilos generales */
+body {
+  font-family: 'Labil Grotesk', sans-serif;
+  background-color: #9bcde4; /* Fondo azul */
+  color:white; /* Texto blanco */
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Totally Heavy', sans-serif;
+  color: white; /* Títulos en blanco */
+  text-transform: uppercase; /* 🔥 Forzar mayúsculas */
+}
+
+button {
+  font-family: 'Labil Grotesk', sans-serif;
+  background-color: yellow; /* Botones amarillos */
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  opacity: 0.8;
+}
